@@ -1,5 +1,4 @@
-name: Vgulp
+name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-safe: true
-lsi: false
+baseurl: /vgulp-jekyll/site
