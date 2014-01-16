@@ -1,5 +1,4 @@
-.idea/
-vendor/
-.bundle/
-Gemfile.lock
-.ruby-version
+_site
+.idea
+vendor
+.bundle
