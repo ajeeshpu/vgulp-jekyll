@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 exclude: [vendor]
 safe: true
+baseurl: /vgulp-jekyll
