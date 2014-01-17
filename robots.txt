@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: beta.app.vgulp.com/beta/welcome?identityToken=37E974D0-E79B-11E2-91E2-0800200C920A6612
+Disallow: vgulp.com?feed=rss2&page_id=34
+Disallow: beta.app.vgulp.com/user/forgotPassword
+Disallow: cloudbees.vgulp.com/
+Disallow: cloudbees.vgulp.com/dbdoc
+Disallow: vgulp.com/?page_id=34&replytocom=3‎
+Disallow: vgulp.com/?page_id=21‎
+Disallow: vgulp.com/?p=47
+Disallow: vgulp.com/?page_id=49‎
+Disallow: vgulp.com/?page_id=34‎
+Disallow: vgulp.com/?author=1
+Disallow: vgulp.com/?m=201302‎
+Disallow: vgulp.com/?p=30‎
