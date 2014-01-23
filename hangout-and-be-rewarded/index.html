@@ -8,6 +8,7 @@ layout: vgulp-campaign
 
     <div class="span8">
         <h2 class="text-center">Few of our deals</h2>
+        <div ng-view class="view-frame">aaaa</div>
 
         <ul class="thumbnails gridex">
             <li class="span4 clearfix">
@@ -130,7 +131,7 @@ layout: vgulp-campaign
                     <li class="active"><a href="#register" data-toggle="tab">Register</a></li>
                     <li><a href="#sign-in" data-toggle="tab">Sign-In</a></li>
                 </ul>
-                <div class="tab-pane active" id="register">
+                <div class="tab-pane active" id="register" ng-view>
                     <form>
                         <fieldset>
                             <input class="input input-block-level" type="text" placeholder="Name">
