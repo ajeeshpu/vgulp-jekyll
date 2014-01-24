@@ -8,7 +8,7 @@ date:   2014-01-24 12:48:11
 tags: jekyll,gulpmag,gh-pages
 categories: first post
 author: ajeesh
-og_image_url: http://vgulp.com/assets/blog/images/cocktail.jpg
+og_image_url: http://www.vgulp.com/assets/blog/images/cocktail.jpg
 ---
 
 The GulpMag is for all you thirsty blokes but what goes on hence is my own shoutout about discovering probably the most
