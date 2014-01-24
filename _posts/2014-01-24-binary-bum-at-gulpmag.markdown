@@ -5,7 +5,7 @@ description: "Github, mojombo,gh-pages, bootstrap eternally indebted to you. my 
 exciting blogging platform that can be set up free and easily on github. *Enter jekyll , gh-pages and Githib*.
 From the bottom of my heart if there is heaven anywhere on earth it is here at Github, Github, Github"
 date:   2014-01-24 12:48:11
-tags: default
+tags: jekyll,gulpmag,gh-pages
 categories: first post
 author: ajeesh
 og_image_url: http://vgulp.com/assets/blog/images/cocktail.jpg
