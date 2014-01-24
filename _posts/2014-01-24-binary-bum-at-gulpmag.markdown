@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog-post
 title:  "Binary Bum at GulpMag"
 description: "Github, mojombo,gh-pages, bootstrap eternally indebted to you. my own shoutout about discovering probably the most
 exciting blogging platform that can be set up free and easily on github. *Enter jekyll , gh-pages and Githib*.
@@ -12,7 +12,7 @@ og_image_url: http://www.vgulp.com/assets/blog/images/cocktail.jpg
 ---
 
 The GulpMag is for all you thirsty blokes but what goes on hence is my own shoutout about discovering probably the most
-exciting blogging platform that can be set up free and easily on github. *Enter jekyll , gh-pages and Githib*.
+exciting blogging platform that can be set up free and easily on github. *Enter jekyll , gh-pages and Github*.
 From the bottom of my heart if there is heaven anywhere on earth it is here at Github, Github, Github.
 
 This is our first attempt to host a blog by ourselves for Vgulp. We felt we needed it because we could not really
