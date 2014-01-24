@@ -1,5 +1,30 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+permalink: /blog/:year-:month-:day/:title
 exclude: [vendor]
 safe: true
+home: www.vgulp.com
+authors:
+  simi:
+    display_name: Bartender @ Vgulp
+    email: simi@vgulp.com
+    bio: C2H50H is a solution
+  nandu:
+    display_name: Nandu the rookie
+    email: nandu@vgulp.com
+    bio: C2H50H is a solution
+  isaac:
+    display_name: Sharkie alias Isaac
+    email: issac@vgulp.com
+    bio: C2H50H is a solution
+  anand:
+    display_name: Bangalore Janardhanan
+    email: anand@vgulp.com
+    bio: C2H50H is a solution
+  ajeesh:
+    display_name: Just a binary bum.
+    email: ajeesh@vgulp.com
+    bio: "There is no place like 127.0.0.1"
+    gravatar: 563ab770fa989cebef99e40ae1e476ff
+

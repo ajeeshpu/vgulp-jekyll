@@ -1,0 +1,15 @@
+---
+layout: blog
+title:  "Welcome to Jekyll!"
+description: "Hello Mister how do you do"
+date:   2014-01-16 12:48:11
+categories: blog
+---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
