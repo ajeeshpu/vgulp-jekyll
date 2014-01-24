@@ -1,11 +1,14 @@
 ---
 layout: blog
-title:  "Hello Gulp Mag World!"
-description: "Github, mojombo,gh-pages, bootstrap eternally indebted to you."
+title:  "Binary Bum at GulpMag"
+description: "Github, mojombo,gh-pages, bootstrap eternally indebted to you. my own shoutout about discovering probably the most
+exciting blogging platform that can be set up free and easily on github. *Enter jekyll , gh-pages and Githib*.
+From the bottom of my heart if there is heaven anywhere on earth it is here at Github, Github, Github"
 date:   2014-01-24 12:48:11
 tags: default
 categories: first post
 author: ajeesh
+og_image_url: http://vgulp.com/assets/blog/images/cocktail.jpg
 ---
 
 The GulpMag is for all you thirsty blokes but what goes on hence is my own shoutout about discovering probably the most
