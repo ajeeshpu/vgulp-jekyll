@@ -6,7 +6,7 @@ date:   2014-01-24 12:48:11
 tags: gin and tonic , cuba ,libre ,gimlet ,capecodder ,screwdriver ,cocktail ,recipe ,how to cocktail
 categories: cocktail
 author: simi
-og_image_url: http://www.vgulp.com/assets/blog/images/cocktail.jpg
+og_image_url: http://cdn.vgulp.com/blog/cape-codder.jpg
 ---
 
 I love cocktails but don’t exactly enjoy having to stock up on ten different expensive bottles of stuff, just to make one drink. If you know, some of the most famous and delicious cocktails require no greater skill than being able to measure and squeeze the juice out of a lime. So go ahead and grab that shaker and start mixing!
