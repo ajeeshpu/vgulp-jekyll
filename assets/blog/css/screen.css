@@ -650,7 +650,23 @@ table.plain {
 .newer-posts:hover {
     border-color: #9EABB3;
 }
-
+.post-top-share{
+    position: relative;
+    padding: 4rem 0 0 0;
+}
+.post-top-share .share
+{
+    position: absolute;
+    top: 4rem;
+    right: 0;
+    width: 140px;
+}
+.post-top-share .share a{
+    font-size: 1.8rem;
+    display: inline-block;
+    margin: 1.4rem 1.6rem 1.6rem 0;
+    color: #BBC7CC;
+}
 
 /* ==========================================================================
    8. Footer - The bottom of every page

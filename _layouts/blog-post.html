@@ -22,7 +22,7 @@
     <link rel="stylesheet" type="text/css" href="/assets/blog/css/bootstrap.css" />
 
 </head>
-<body class="class="home-template"">
+<body class="home-template">
 <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
@@ -39,11 +39,12 @@
     </div>
 </div>
 </header>
+
 <div class="row">
-    <div class="col-lg-6 col-lg-offset-2 col-sm-offset-0 col-md-offset-0">
+    <div class="col-lg-6 col-sm-12 col-md-12 col-lg-offset-2 col-sm-offset-0 col-md-offset-0">
         {% assign author = site.authors[page.author] %}
         <span class="post-meta">{{author.display_name}},&nbsp;<time datetime="{{page.date}}">{{page.date|date: "%-d %B %Y"}}</time> {{page.tags}}</span>
-        <div class="post-footer">
+        <div class="post-top-share">
             <section class="share">
                 <h4>Share this post</h4>
                 <a class="icon-twitter" href="http://twitter.com/share?text={{title}}&url=http://{{site.home}}{{page.url}}"
@@ -89,12 +90,13 @@
         <div id="disqus_thread"></div>
 
     </div>
-    <div class="col-lg-3">
+    <div class="col-lg-3 visible-lg hidden-md hidden-sm">
         <div id="fb-root"></div>
         <div class="fb-facepile" data-href="http://facebook.com/vgulp" data-max-rows="3" data-colorscheme="dark" data-size="large" data-show-count="true"></div>
     </div>
 
 </div>
+
 <footer class="site-footer">
     <div class="inner">
         <section class="copyright">All content copyright <a href="/blog">Gulp mag</a> &copy; 2014 &bull; All rights reserved.</section>
