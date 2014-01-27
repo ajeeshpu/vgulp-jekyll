@@ -10,11 +10,11 @@
     <meta name="MobileOptimized" content="320" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{page.title}}</title>
-    <title>{{page.description}}</title>
+    <meta property="description" content="{{page.description}}"/>
+    <meta property="og:url" content="http://{{site.home}}{{page.url}}/"/>
     <meta property="og:image" content="{{page.og_image_url}}"/>
     <meta property="og:title" content="{{page.title}}" />
     <meta property="og:description" content="{{page.description}}" />
-    <meta property="og:url" content="http://{{site.home}}{{page.url}}/"/>
     <meta property="og:type" content="website" />
     <link rel="stylesheet" type="text/css" href="/assets/blog/css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="/assets/blog/css/screen.css" />
@@ -44,25 +44,39 @@
     <div class="col-lg-6 col-sm-12 col-md-12 col-lg-offset-2 col-sm-offset-0 col-md-offset-0">
         {% assign author = site.authors[page.author] %}
         <span class="post-meta">{{author.display_name}},&nbsp;<time datetime="{{page.date}}">{{page.date|date: "%-d %B %Y"}}</time> {{page.tags}}</span>
-        <div class="post-top-share">
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{title}}&url=http://{{site.home}}{{page.url}}"
-                   onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://{{site.home}}{{page.url}}"
-                   onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://{{site.home}}{{page.url}}"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="share_this">
+                    <span class='st_facebook_vcount_large' displayText='Facebook'></span>
+                    <span class='st_twitter_vcount_large' displayText='Tweet'></span>
+                    <span class='st_googleplus_vcount_large' displayText='Google '></span>
+                    <span class='st_linkedin_vcount_large' displayText='LinkedIn'></span>
+                    <span class='st_email_vcount_large' displayText='Email'></span>
+                    <span class='st_sharethis_vcount_large' displayText='ShareThis'></span>
+
+                </div>
+            </div>
         </div>
-        <h1>{{page.title}}</h1>
-        {{content}}
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>{{page.title}}</h1>
+                {{content}}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="share_this">
+                    <span class='st_facebook_vcount' displayText='Facebook'></span>
+                    <span class='st_twitter_vcount' displayText='Tweet'></span>
+                    <span class='st_googleplus_vcount' displayText='Google '></span>
+                    <span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+                    <span class='st_email_vcount' displayText='Email'></span>
+                    <span class='st_sharethis_vcount' displayText='ShareThis'></span>
+
+                </div>
+
+            </div>
+        </div>
         <footer class="post-footer">
             <section class="author">
                 <h4>{% if author.gravatar!="" %}
@@ -71,21 +85,7 @@
                     {{author.display_name}}</h4>
                 <p>{{author.bio}}</p>
             </section>
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{title}}&url=http://{{site.home}}{{page.url}}"
-                onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://{{site.home}}{{page.url}}"
-                onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://{{site.home}}{{page.url}}"
-                onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                <span class="hidden">Google+</span>
-                </a>
-            </section>
+
         </footer>
         <div id="disqus_thread"></div>
 
@@ -102,6 +102,9 @@
         <section class="copyright">All content copyright <a href="/blog">Gulp mag</a> &copy; 2014 &bull; All rights reserved.</section>
     </div>
 </footer>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'dad78293-5cc8-4a20-bc48-959250601b87'});</script>
 <script type="text/javascript">
     var disqus_shortname = 'gulpmag'; // required: replace example with your forum shortname
     var disqus_identifier = '{{page.id}}'; // make sure to use the post.id as an identifier, otherwise disqus will use the pages url per default, which might be problematic...
@@ -113,6 +116,7 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
+
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
