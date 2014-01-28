@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title:  "Know your liquor"
+title:  "Liquor types and basics"
 description: " A casual drinker or a world class tippler? If you are reading this post, it's an indication that you love drinking. Part of knowing how to being a classy drinker involves knowing your way around alcohol. You may not particularly care about what you are drinking but it's never a good thing to ignore information. So, here is a quick guide to some of the most popular liquors around the globe."
 date:   2014-01-29 18:48:11
 tags: vodka, gin, rum, tequila, whiskey, scotch, bourbon, blended whisky, Irish whiskey, brandy, cognac
