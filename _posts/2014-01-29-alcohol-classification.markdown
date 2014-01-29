@@ -1,4 +1,3 @@
-
 ---
 layout: blog-post
 title:  "Basic alcohol classification"
@@ -11,7 +10,7 @@ og_image_url: http://cdn.vgulp.com/blog/irish-whiskey-c5779f12436404334e51afd234
 ---
 
 
-Alcohol is a generic term used to describe any potable beverage containing ethanol. It is classified into the following categories.
+Alcohol is a generic term used to describe any potable beverage containing ethanol. It can be classified into the following categories.
 
 #### Liquor
 
@@ -41,11 +40,13 @@ Champagne- Champagnes are white sparkling wines from the Champagne region of Fra
 
 Vermouth- fortified wine flavored with aromatic herbs and used mainly in mixed drinks. They can be either dry vermouth (used in Martinis) or sweet vermouth ( used in Manhattans).
 
-Beer
+#### Beer
 
-Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops.
+* Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops.
 
-﻿Ales- ales are higher in alcohol, heartier and darker than lagers. 
-Lagers- lagers tend to be paler, crisper, drier and less alcoholic than ales.  
-To learn about beers and it's classification visit http://gulpmag.tumblr.com/post/70778380798/beer 
+* Ales- ales are higher in alcohol, heartier and darker than lagers. 
+* Lagers- lagers tend to be paler, crisper, drier and less alcoholic than ales.  
+To learn about beers and it's classification visit [our post](http://gulpmag.tumblr.com/post/70778380798/beer) 
+
+** Here is to a Happy gulping! **
 
