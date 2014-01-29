@@ -9,7 +9,8 @@ author: simi
 og_image_url: http://cdn.vgulp.com/blog/irish-whiskey-c5779f12436404334e51afd234fbec28.jpg
 ---
 
- A casual drinker or a world class tippler? If you are reading this post, it's an indication that you love drinking. Part of knowing how to being a classy drinker involves knowing your way around alcohol. You may not particularly care about what you are drinking but it's never a good thing to ignore information. So, here is a quick guide to some of the most popular liquors around the globe.
+
+A casual drinker or a world class tippler? If you are reading this post, it's an indication that you love drinking. Part of knowing how to being a classy drinker involves knowing your way around alcohol. You may not particularly care about what you are drinking but it's never a good thing to ignore information. So, here is a quick guide to some of the most popular liquors around the globe.
 
 
 ### Vodka
