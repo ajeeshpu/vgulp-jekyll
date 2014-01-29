@@ -1,3 +1,16 @@
+
+---
+layout: blog-post
+title:  "Basic alcohol classification"
+description: " A casual drinker or a world class tippler? If you are reading this post, it's an indication that you love drinking. Part of knowing how to being a classy drinker involves knowing your way around alcohol. You may not particularly care about what you are drinking but it's never a good thing to ignore information. So, here is a quick guide to some of the most popular liquors around the globe."
+date:   2014-01-29 18:48:11
+tags: vodka, gin, rum, tequila, whiskey, scotch, bourbon, blended whisky, Irish whiskey, brandy, cognac
+categories: all_spirits
+author: simi
+og_image_url: http://cdn.vgulp.com/blog/irish-whiskey-c5779f12436404334e51afd234fbec28.jpg
+---
+
+
 Alcohol is a generic term used to describe any potable beverage containing ethanol. It is classified into the following categories.
 
 #### Liquor
@@ -18,13 +31,13 @@ Liqueurs are flavored spirits from fruits, plants, seeds, peels and berries. The
 #### Wine
 
 In general terms, wine is an alcoholic beverage obtained by **fermenting** the juice of berries and fruits most popularly grapes. 
-Red wine- Red in color.they are typically served in room temperatures.Examples : Cabernet Sauvignon, Merlot, Shiraz, Malbec.
-White wine- White in color and served chilled. Examples; Sauvignon Blanc, Chardonnay, Riesling.
+* Red wine- Red in color.they are typically served in room temperatures.Examples : Cabernet Sauvignon, Merlot, Shiraz, Malbec.
+* White wine- White in color and served chilled. Examples; Sauvignon Blanc, Chardonnay, Riesling.
 Rose wine-  pinkish table wine from red grapes whose skins were removed after fermentation began.
 
 Sparkling wine-  any of various effervescent (bubbles) wines, such as champagne, produced by a process involving fermentation in the bottle.
 
-* Champagne- Champagnes are white sparkling wines from the Champagne region of France. All champagnes are sparkling wines but not all sparkling wines are champagnes!
+Champagne- Champagnes are white sparkling wines from the Champagne region of France. All champagnes are sparkling wines but not all sparkling wines are champagnes!
 
 Vermouth- fortified wine flavored with aromatic herbs and used mainly in mixed drinks. They can be either dry vermouth (used in Martinis) or sweet vermouth ( used in Manhattans).
 
