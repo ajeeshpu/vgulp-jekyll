@@ -32,6 +32,8 @@ Liqueurs are flavored spirits from fruits, plants, seeds, peels and berries. The
 
 ### Wine
 
+<img src="http://www.thedrinksbusiness.com/wordpress/wp-content/uploads/2013/07/fizz-640x423.jpg"  alt="champagne" width="100%"/>
+
 In general terms, wine is an alcoholic beverage obtained by **fermenting** the juice of berries and fruits most popularly grapes.
 
 * **Red wine**- Red in color.they are typically served in room temperatures.Examples : Cabernet Sauvignon, Merlot, Shiraz, Malbec.
@@ -45,6 +47,8 @@ Rose wine-  pinkish table wine from red grapes whose skins were removed after fe
 `Vermouth`- fortified wine flavored with aromatic herbs and used mainly in mixed drinks. They can be either dry vermouth (used in Martinis) or sweet vermouth ( used in Manhattans).
 
 #### Beer
+
+<img src="http://papa-gallo.com/es/images/draft.png" alt="Beer" width="100%"/>
 
 * Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops.
 
