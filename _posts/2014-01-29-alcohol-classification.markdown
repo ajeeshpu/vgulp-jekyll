@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Basic alcohol classification"
 description: "Alcohol is a generic term used to describe any potable beverage containing ethanol. It can be classified into the following categories."
 date:   2014-01-29 18:48:11
-tags: vodka, gin, rum, tequila, whiskey, scotch, bourbon, blended whisky, Irish whiskey, brandy, cognac
+tags: wine, liqueur, liquor, beer
 categories: all_spirits
 author: simi
 og_image_url: http://cdn.vgulp.com/blog/irish-whiskey-c5779f12436404334e51afd234fbec28.jpg
