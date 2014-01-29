@@ -13,10 +13,13 @@ og_image_url: http://i-cdn.apartmenttherapy.com/uimages/kitchen/2012-05-08-Reade
 Alcohol is a generic term used to describe any potable beverage containing ethanol. It can be classified into the following categories.
 
 ### Liquor
+<img src="http://i-cdn.apartmenttherapy.com/uimages/kitchen/2012-05-08-ReaderLiquor.jpg" alt="liquor" width="100%"/>
+
 
 Liquor refers to any unsweetened **distilled** alcoholic beverage. They are usually higher in alcoholic content. Vodka, gin, rum, tequila, whiskey, brandy and moonshine are all liquors.
 
 ### Liqueur
+<img src="http://kelleychisholm.files.wordpress.com/2012/10/liqueurs2.jpg" alt="Liquer" width="100%"/>
 
 Liqueurs are flavored spirits from fruits, plants, seeds, peels and berries. They usually contain about 2.5 percentage to 35 percentage alcohol which is comparatively lower than liquors. Some of the examples include
 
