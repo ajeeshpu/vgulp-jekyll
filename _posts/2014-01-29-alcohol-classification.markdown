@@ -6,7 +6,7 @@ date:   2014-01-29 18:48:11
 tags: wine, liqueur, liquor, beer
 categories: all_spirits
 author: simi
-og_image_url: http://cdn.vgulp.com/blog/irish-whiskey-c5779f12436404334e51afd234fbec28.jpg
+og_image_url: http://i-cdn.apartmenttherapy.com/uimages/kitchen/2012-05-08-ReaderLiquor.jpg
 ---
 
 
