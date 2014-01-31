@@ -1,0 +1,10 @@
+---
+layout: blog-post
+title:  "Beer style IPA"
+description: "Despite whiskey’s deservedly lofty associations, it is indeed a drink for the every man. If someone tells you to drink your whiskey a certain way only, ask them to mind their own business as it is your whiskey and you can drink it the way you want"
+date:   2014-01-31 14:48:11
+tags: Beer
+categories: Beer
+author: simi
+og_image_url: http://cdn3.foodviva.com/static-content/food-images/cocktail-recipes/b-b-benedictine-brandy-cocktail/b-b-benedictine-brandy-cocktail.jpg
+---
