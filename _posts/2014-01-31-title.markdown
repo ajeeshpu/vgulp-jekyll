@@ -3,8 +3,8 @@ layout: blog-post
 title:  "Beer style- IPA (INDIA Pale Ale)"
 description: "Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops."
 date:   2014-01-29 18:48:11
-tags: wine, liqueur, liquor, beer
-categories: all_spirits
+tags: Beer, Beer styles
+categories: Beer
 author: simi
  og_image_url:http://1.bp.blogspot.com/-rBCKvkxN_pk/UKq2_rinwuI/AAAAAAAABbI/PnigvDaQPZg/s1600/beer.jpg
 ---
