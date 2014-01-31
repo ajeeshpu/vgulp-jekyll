@@ -1,61 +1,39 @@
 ---
 layout: blog-post
-title:  "i dont know it yet"
+title:  "Beer style- IPA (INDIA Pale Ale)"
 description: "Alcohol is a generic term used to describe any potable beverage containing ethanol. It can be classified into the following categories."
 date:   2014-01-29 18:48:11
 tags: wine, liqueur, liquor, beer
 categories: all_spirits
 author: simi
-og_image_url: http://i-cdn.apartmenttherapy.com/uimages/kitchen/2012-05-08-ReaderLiquor.jpg
+ og_image_url:http://1.bp.blogspot.com/-rBCKvkxN_pk/UKq2_rinwuI/AAAAAAAABbI/PnigvDaQPZg/s1600/beer.jpg
 ---
+ 
 
+ ***Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops. ( Hops are climbing vine that produces flowers or “cones” which contribute bitterness and aroma in beer. They also act as a natural preservative and help clarify the beer during the brewing process).
 
-Alcohol is a generic term used to describe any potable beverage containing ethanol. It can be classified into the following categories.
+#### Basic ingredients
 
-### Liquor
-<img src="http://i-cdn.apartmenttherapy.com/uimages/kitchen/2012-05-08-ReaderLiquor.jpg" alt="liquor" width="100%"/>
+* water
+* hops
+* brewer’s yeast
+* barley 
 
+#### So how many “types” of beer are there? 
 
-Liquor refers to any unsweetened **distilled** alcoholic beverage. They are usually higher in alcoholic content. Vodka, gin, rum, tequila, whiskey, brandy and moonshine are all liquors.
+#### Two: ales and lagers. (Just like red and white wines).
 
-### Liqueur
-<img src="http://kelleychisholm.files.wordpress.com/2012/10/liqueurs2.jpg" alt="Liquer" width="100%"/>
+ Ale is a generic term used for beers produced by top fermentation. They generally are higher in alcohol content, heartier and darker than lagers which are bottom fermented.
 
-Liqueurs are flavored spirits from fruits, plants, seeds, peels and berries. They usually contain about 2.5 percentage to 35 percentage alcohol which is comparatively lower than liquors. Some of the examples include
+## India Pale ale## falls under the ale category. It was brewed in England for British troops stationed in India in the 18th century. IPA's were brewed very strong, highly hopped (hops were used as preservatives) to survive a voyage that could take as long as six months. The addition of hops makes the beer taste strong and bitter. Thus, IPA's were born out of  necessity.
+og_image_url:http://d3pddo38v7j30h.cloudfront.net/blog/wp-content/uploads/2009/09/ipa_web.jpg
 
-* Bailey's Irish cream- dairy cream with Irish spirits
-* Blue Curacao- orange
-* Kahlua- coffee
-* Jagermeister- citrus licorice
-* Southern comfort- peach and honey
-* Triple sec- orange
+#### Tasting Notes:
 
-### Wine
+IPA's are usually golden to amber in color. A good IPA is pleasantly hoppy (bitter) with the sweetness from the malt balancing it. Hops make the beer difficult to pair with most of the Indian dishes unless the dish has a sweet taste to it like barbeque sauce. 
 
-<img src="http://www.thedrinksbusiness.com/wordpress/wp-content/uploads/2013/07/fizz-640x423.jpg"  alt="champagne" width="100%"/>
+If you are the kind who prefers a strong tasting beer that leaves a long lasting finish, You should definitely try this one out. If you are a sucker for lager beers, I   still suggest that it's time to get adventurous. Remember to gulp responsibly!
 
-In general terms, wine is an alcoholic beverage obtained by **fermenting** the juice of berries and fruits most popularly grapes.
+###Here is to a happy gulping###  :)
 
-* **Red wine**- Red in color.they are typically served in room temperatures.Examples : Cabernet Sauvignon, Merlot, Shiraz, Malbec.
-* **White wine**- White in color and served chilled. Examples; Sauvignon Blanc, Chardonnay, Riesling.
-Rose wine-  pinkish table wine from red grapes whose skins were removed after fermentation began.
-
-`Sparkling wine`-  any of various effervescent (bubbles) wines, such as champagne, produced by a process involving fermentation in the bottle.
-
-`Champagne`- Champagnes are white sparkling wines from the Champagne region of France. All champagnes are sparkling wines but not all sparkling wines are champagnes!
-
-`Vermouth`- fortified wine flavored with aromatic herbs and used mainly in mixed drinks. They can be either dry vermouth (used in Martinis) or sweet vermouth ( used in Manhattans).
-
-#### Beer
-
-<img src="http://papa-gallo.com/es/images/draft.png" alt="Beer" width="100%"/>
-
-* Beer is a generic name for alcoholic beverages produced by fermenting a cereal or a mixture of cereals, flavored with hops.
-
-* Ales- ales are higher in alcohol, heartier and darker than lagers. 
-* Lagers- lagers tend to be paler, crisper, drier and less alcoholic than ales.
-
-To learn about beers and it's classification visit [our post](http://gulpmag.tumblr.com/post/70778380798/beer) 
-
-**Here is to a Happy gulping!**
 
