@@ -14,7 +14,7 @@ og_image_url: http://www.galleryhijinks.com/media/artists/gallery/peter-gronquis
 Okay! so, Here is the recipe..
 
 ***Black Russian***
-<img src="http://vodkavalley.com/wp-content/uploads/2013/04/1023.jpg" alt="liquor" width="100%"/>
+<img src="http://vodkavalley.com/wp-content/uploads/2013/04/1023.jpg" alt="liquor" width="25%"/>
 
 * Vodka- 45 ml
 * Kahlua- 20 ml ( coffee liqueur)
@@ -23,7 +23,7 @@ In a rock's glass filled with ice, add vodka and kahlua and serve with a straw.
 Now, the Black Russian becomes a White Russian with the addition of cream.
 
 ***White Russian***
-<img src="http://thumbs.ifood.tv/files/whiterussian.jpg" alt="liquor" width="100%"/>
+<img src="http://thumbs.ifood.tv/files/whiterussian.jpg" alt="liquor" width="25%"/>
 
 
 * Vodka- 45 ml
@@ -34,7 +34,7 @@ In a shaker filled with ice add vodka, kahlua and cream and shake for 20 seconds
 ***AK- 47***
 
 Ak 47 cocktail, just like the 'assault rifle', hits you straight in the head because of all the alcohol in it. A friend of mine once commented that it smelt like nail polish. According to her, it lacked flavor (yes, her go to drinks are breezers!). Now folks! put your guard down and I bet you would definitely have a different opinion altogether. So here is the recipe..
-<img src="http://img.insing.com/Things2Do/articles/201110/bars/boston.jpg" alt="liquor" width="100%"/>
+<img src="http://img.insing.com/Things2Do/articles/201110/bars/boston.jpg" alt="liquor" width="50%"/>
 
 * Vodka- 20 ml
 * Gin- 20 ml
