@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "How to Cocktail- Black Russian, White Russian, AK- 47"
-description: "The Black and the White Russians are easy to drink cocktails, yet they pack quite a punch. The White Russian especially, is commonly known as a drink for the rubes( an unsophisticated person from a rural area) and the well seasoned guzzlers alike. The Black Russian was created during the Cold War in Brussels and named after the spirit Vodka (primarily a Russian export) and black (coffee liqueur). Meanwhile the White Russian gained popularity when "dude" the protagonist from a 1998 comedy movie "The big Lebowski", gulped down eight of those and dropped the ninth one. (see what I mean?). "
+description: "The Black and the White Russians are easy to drink cocktails, yet they pack quite a punch."
 date:   2014-02-03 18:48:11
 tags: Vodka, Kahlua, The Russians, AK 47
 categories: all_spirits
