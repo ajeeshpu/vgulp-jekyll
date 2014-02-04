@@ -1,10 +1,10 @@
 ---
 layout: blog-post
-title:  "Brandy- Aqua Vitae, The Water of Life"
+title: "Brandy- Aqua Vitae, THE WATER OF LIFE"
 description: "When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter."
-date:   2014-02-04 14:48:11
-tags: Brandy,Cognac, Armagnac
-categories: Brandy
+date:   2014-02-04 18:48:11
+tags: Brandy
+categories: all_spirits
 author: simi
 og_image_url:http://blog.timesdeal.com/wp-content/uploads/2011/09/Brandy_Snifter.jpg
 ---
