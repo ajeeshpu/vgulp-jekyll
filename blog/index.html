@@ -5,7 +5,7 @@ description: "All of vgulp's blogs here"
 date:   2014-01-16 12:48:11
 categories: blog
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <article class="post">
     <header class="post-header">
         {% assign author =site.authors[post.author]%}
