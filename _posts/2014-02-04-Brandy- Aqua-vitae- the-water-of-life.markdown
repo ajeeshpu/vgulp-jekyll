@@ -23,9 +23,9 @@ og_image_url:http://blog.timesdeal.com/wp-content/uploads/2011/09/Brandy_Snifter
   Cognac and Armagnac are regions in France. So a brandy can be a Cognac or an Armagnac depending on the region it is distilled in. 
 The age of the brandy determines it's cost and class. Older the better and is of course, Pricier! 
 
-* V.S. - very special, 4 years.
-* V.S.O.P.- very special old pale, 4- 6 years.
-* X.O.- extremely old, 5.5- 40 years.
+* V.S. - very special,4 years.
+* V.S.O.P.- very special old pale,4- 6 years.
+* X.O.- extremely old,5.5- 40 years.
 
 ### How to drink brandy 
 <img src="http://rumroadravings.com/wp-content/uploads/2013/01/Martell_in_brandy_snifter.jpg" alt="liquor" width="25%"/>
@@ -35,7 +35,7 @@ The age of the brandy determines it's cost and class. Older the better and is of
 
 The appreciation of Brandy is the combination of sight, scent and taste. Enjoy responsibly!
 
-***Here is to a happy gulping***
+***Here is to a happy gulping!***
 
 
 
