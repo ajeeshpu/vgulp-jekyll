@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "Brandy- Aqua Vitae, The Water of Life"
-description: "When I mention brandy, you probably get an an image of an older Gentleman, Resting in his leather arm chair with a brandy snifter."
+description: "When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter."
 date:   2014-02-04 14:48:11
 tags: Brandy,Cognac, Armagnac
 categories: Brandy
@@ -9,7 +9,7 @@ author: simi
 og_image_url:http://blog.timesdeal.com/wp-content/uploads/2011/09/Brandy_Snifter.jpg
 ---
 
- Feeling under the weather? Brandy is the ultimate sought after beverage to beat the chills! When I mention brandy, you probably get an an image of an older Gentleman, Resting in his leather arm chair with a brandy snifter and perhaps smoking a pipe ( I get this visualization from older movies!). We think of brandies as an Old World's after dinner drink which is definite but also what I'm trying to emphasize here is that brandies are still around and are gaining popularity among the younger generation. Brandy, is a complex topic! One post on it will not be sufficient. But I'm going to try to cover as much as information I can conjure up.
+ Feeling under the weather? Brandy is the ultimate sought after beverage to beat the chills! When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter and perhaps smoking a pipe ( I get this visualization from older movies!). We think of brandies as an Old World's after dinner drink which is definite but also what I'm trying to emphasize here is that brandies are still around and are gaining popularity among the younger generation. Brandy, is a complex topic! One post on it will not be sufficient. But I'm going to try to cover as much as information I can conjure up.
 
 ## Brandy
 
