@@ -19,6 +19,8 @@
     <link rel="stylesheet" type="text/css" href="/assets/blog/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Open+Sans:700,400" />
     <link rel="stylesheet" type="text/css" href="/assets/blog/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/blog/css/main.css" />
+
 
 </head>
 <body class="class="home-template"">
@@ -42,19 +44,31 @@
     <div class="col-lg-6 col-lg-offset-2 col-sm-offset-0 col-md-offset-0">
         {{content}}
         <!-- Pagination links -->
-        <div class="pagination text-center">
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
             {% if paginator.previous_page %}
-            <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+            <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
             {% else %}
-            <span class="previous">Previous</span>
+            <span>&laquo; Prev</span>
             {% endif %}
-            <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-            {% if paginator.next_page %}
-            <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+
+            {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+            <em>{{ page }}</em>
+            {% elsif page == 1 %}
+            <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
             {% else %}
-            <span class="next ">Next</span>
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+            {% endfor %}
+
+            {% if paginator.next_page %}
+            <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            {% else %}
+            <span>Next &raquo;</span>
             {% endif %}
         </div>
+        {% endif %}
 
     </div>
     <div class="col-lg-3">

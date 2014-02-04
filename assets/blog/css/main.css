@@ -1,0 +1,8 @@
+a.next,
+a.previous{
+    color:#18bc9c;
+}
+a.next:hover,
+a.previous:hover{
+    color:#50585D;
+}
