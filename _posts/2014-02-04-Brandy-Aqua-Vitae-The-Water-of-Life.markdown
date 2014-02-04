@@ -1,15 +1,15 @@
 ---
 layout: blog-post
-title: "Brandy- Aqua Vitae, THE WATER OF LIFE"
-description: "When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter."
-date:   2014-02-04 18:48:11
-tags: Brandy
+title:  "How to Cocktail- Black Russian, White Russian, AK- 47"
+description: "The Black and the White Russians are easy to drink cocktails, yet they pack quite a punch."
+date:   2014-02-03 18:48:11
+tags: Vodka, Kahlua, The Russians, AK 47
 categories: all_spirits
 author: simi
-og_image_url:http://blog.timesdeal.com/wp-content/uploads/2011/09/Brandy_Snifter.jpg
+og_image_url: http://www.galleryhijinks.com/media/artists/gallery/peter-gronquist/img_0709.jpg
 ---
 
- Feeling under the weather? Brandy is the ultimate sought after beverage to beat the chills! When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter and perhaps smoking a pipe ( I get this visualization from older movies!). We think of brandies as an Old World's after dinner drink which is definite but also what I'm trying to emphasize here is that brandies are still around and are gaining popularity among the younger generation. Brandy, is a complex topic! One post on it will not be sufficient. But I'm going to try to cover as much as information I can conjure up.
+Feeling under the weather? Brandy is the ultimate sought after beverage to beat the chills! When I mention brandy, you probably get an an image of an older Gentleman, resting in his leather arm chair with a brandy snifter and perhaps smoking a pipe ( I get this visualization from older movies!). We think of brandies as an Old World's after dinner drink which is definite but also what I'm trying to emphasize here is that brandies are still around and are gaining popularity among the younger generation. Brandy, is a complex topic! One post on it will not be sufficient. But I'm going to try to cover as much as information I can conjure up.
 
 ## Brandy
 
