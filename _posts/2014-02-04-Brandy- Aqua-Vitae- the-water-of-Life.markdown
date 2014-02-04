@@ -28,7 +28,7 @@ The age of the brandy determines it's cost and class. Older the better and is of
 * X.O.- extremely old,5.5- 40 years.
 
 ### How to drink brandy 
-<img src="http://rumroadravings.com/wp-content/uploads/2013/01/Martell_in_brandy_snifter.jpg" alt="liquor" width="25%"/>
+![ipa](http://rumroadravings.com/wp-content/uploads/2013/01/Martell_in_brandy_snifter.jpg" alt="liquor" width="25%)
 
   The classic way to enjoy a well aged brandy is in a snifter at room temperature (neat). Hold the base of the snifter in the palm to gently warm the drink to release the aromas. It is typically served this way as an after dinner drink, a digestif!
  When you see Pomace brandy on the label, it generally refers to the kind made from the seeds, stems and skins of the grapes used to make wine. Pomace brandies are typically served over ice and are used in cocktails.
