@@ -9,7 +9,7 @@ author: simi
 og_image_url: http://summerfruitcup.files.wordpress.com/2011/05/harvey-wallbanger.jpg
 ---
 
-  Screwdriver! Why is this simple cocktail called so?
+Screwdriver! Why is this simple cocktail called so?
 
 
 Often times, the simples of cocktails are also the most popular. This holds true with the famous screwdriver cocktail. It is one of the most notable and frequently made cocktails around the world making it the the official drink of the IBA (International Bartenders Association).
