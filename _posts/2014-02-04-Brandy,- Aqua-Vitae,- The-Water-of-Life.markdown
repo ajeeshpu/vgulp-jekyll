@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "Brandy- Aqua Vitae, The Water of Life"
-description: "When I mention brandy, you probably get an an image of an older Gentleman, Resting in his leather arm chair with a brandy snifter and perhaps smoking a pipe ( I get this visualization from an old movie!)"
+description: "When I mention brandy, you probably get an an image of an older Gentleman, Resting in his leather arm chair with a brandy snifter."
 date:   2014-02-04 14:48:11
 tags: Brandy,Cognac, Armagnac
 categories: Brandy
