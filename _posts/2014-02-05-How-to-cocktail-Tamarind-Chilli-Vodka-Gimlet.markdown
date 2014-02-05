@@ -6,7 +6,7 @@ date: 2014-02-05 18:48:11
 tags: Vodka, tamarind, green chilli.
 categories: all_spirits
 author: simi
-og_image_url: http://abitsnobby.files.wordpress.com/2012/02/tamarindo.jpg
+og_image_url: http://farm4.staticflickr.com/3807/8997836004_272c5e8fdf_z.jpg
 ---
 
 Up for something tangy, spicy, sweet with a kick? Here is a recipe for a tamarind chilli vodka gimlet which is very easy to make with all the ingredients coming right out of your kitchen pantry. This is my favorite go to drink to make when I'm entertaining a bunch of brave hearts at home! So, go ahead, pick up that cocktail shaker or even a metal tumbler and start mixing!
