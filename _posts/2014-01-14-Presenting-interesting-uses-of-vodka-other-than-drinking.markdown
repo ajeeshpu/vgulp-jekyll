@@ -27,11 +27,11 @@ og_image_url: http://i.dailymail.co.uk/i/pix/2013/03/20/article-2296540-18D0B391
 
 4) ***Stain remover*** - Spray vodka on stains (even on stains from vomit!) . Scrub with a brush and pat it dry. (Or you can take a proactive approach and drink more vodka in the first place so your puke won’t leave stains behind ).
 
-<img src="http://cdn.idolator.com/wp-content/uploads/2012/08/17/Wallpaper-Puke-My-Brains-Out-400x300.jpg" alt="Liquor" width="75%"/>
+<img src="http://cdn.idolator.com/wp-content/uploads/2012/08/17/Wallpaper-Puke-My-Brains-Out-400x300.jpg" alt="Liquor" width="60%"/>
 
 5) ***If all else fails, just turn the bottle up and gulp it down! Nothing will matter anymore, anyway!***
 
-<img src="http://cdn.ebaumsworld.com/2011/03/81385933/vodka.jpg" alt="Liquor" width="50%"/>
+<img src="http://cdn.ebaumsworld.com/2011/03/81385933/vodka.jpg" alt="Liquor" width="75%"/>
 
 If something had to go wrong, say per instance you happened to ruin your favorite shirt , yes, you can reach me at simi@vgulp.com and tell me your story and our liability ends there. Remember to gulp responsibly.
 
