@@ -30,7 +30,7 @@ Brewed by Shaw Wallace (SABMiller)
 Style: Malt Liquor
 ABV- 7 percentage
 Mumbai, India.
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWCxao_doAu-Ol0ceJD5cn2WqKzQJk8QBoo2S4LAJs-MQp51DP" alt="Liquor" width="60%"/>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWCxao_doAu-Ol0ceJD5cn2WqKzQJk8QBoo2S4LAJs-MQp51DP" alt="Liquor" width="45%"/>
 
  If you are one those who prefer “beer with bite”, then this is not recommended as it is pretty light bodied. Haywards 5000 label is a top selling strong beer containing 7 percentage of alcohol. Those who love stouts should consider Haywards black, India’s first genuine stout beer.
  
