@@ -1,7 +1,8 @@
 ---
 layout: blog-post
 title: "Drinking alcohol makes us awesome!"
-description: "Often times, the simples of cocktails are also the most popular. This holds true with the famous screwdriver cocktail. It is one of the most notable and frequently made cocktails around the world making it the the official drink of the IBA."
+description: "***Can alcohol make you fat?***
+Our bodies need a definite number of calories to maintain our weight based on our height, age, gender and activity level. We gain weight when we exceed our daily need of calories."
 date: 2014-02-06 18:48:11
 tags: alcohol,fat,aging,sleep,awesome
 categories: all_spirits
