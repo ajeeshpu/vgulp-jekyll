@@ -20,7 +20,7 @@ Brewed by United Breweries Group
 Style: Pale Lager
 ABV- 4.8 percentage
 Bangalore, India.
-<img src="http://farm3.staticflickr.com/2599/3684606451_c4f96d1b15.jpg" alt="Liquor" width="50%"/>
+<img src="http://farm3.staticflickr.com/2599/3684606451_c4f96d1b15.jpg" alt="Liquor" width="35%"/>
 
  ”The king of good times”, is the most popular beer with it’s name associated with fashion, sports and even an airline. It’s light tasting with a good amount of malt. A regular kingfisher premium has about 4.8 percentage of alcohol in it while the kingfisher Strong, contains 8 percentage alcohol. The kingfisher ultra is their latest offering which has been gaining popularity among the young Indian beer drinking crowd.
 
@@ -30,7 +30,7 @@ Brewed by Shaw Wallace (SABMiller)
 Style: Malt Liquor
 ABV- 7 percentage
 Mumbai, India.
-<img src="http://farm3.staticflickr.com/2599/3684606451_c4f96d1b15.jpg" alt="Liquor" width="75%"/>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWCxao_doAu-Ol0ceJD5cn2WqKzQJk8QBoo2S4LAJs-MQp51DP" alt="Liquor" width="60%"/>
 
  If you are one those who prefer “beer with bite”, then this is not recommended as it is pretty light bodied. Haywards 5000 label is a top selling strong beer containing 7 percentage of alcohol. Those who love stouts should consider Haywards black, India’s first genuine stout beer.
  
@@ -60,6 +60,8 @@ Brewed by Impala Distillery & Brewery
 Style: Pale Lager
 Abv- 4.8 percentage
 Goa, India.
-<img src="http://mehtakyakehta.files.wordpress.com/2011/04/kings-black-label-pilsner.jpg" alt="Liquor" width="40%"/>
+<img src="http://mehtakyakehta.files.wordpress.com/2011/04/kings-black-label-pilsner.jpg" alt="Liquor" width="50%"/>
+
+Here is the spirit of Goa. It’s taste is a bit fuller than most of the other Indian lager beers. It has an alcohol content of 4.8 percentage and is priced very attractively making it the highlight of every trip to Goa! 
 
 Try one, try all. ***Here is to a happy gulping!***
