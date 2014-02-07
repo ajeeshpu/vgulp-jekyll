@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "How to cocktail- Margarita!"
-description: "There have been several claims to Margarita's origins. But no one really knows who came up with this world famous drink. I was at a bar yesterday whre I was pretty disappointed with the way the drink was presented to me! In its classic form- tequila, lime juice, triple sec, served in a glass with a salted rim is a perfect combination of sweet, salt, sour and bitter. Here is an easy recipe for the real deal. "
+description: "There has been several claims to Margarita's origins. But no one really knows who came up with this world famous drink. I was at a bar yesterday whre I was pretty disappointed with the way the drink was presented to me! In its classic form- tequila, lime juice, triple sec, served in a glass with a salted rim is a perfect combination of sweet, salt, sour and bitter. Here is an easy recipe for the real deal. "
 date: 2014-02-07 18:48:11
 tags: alcohol, tequila, margarita
 categories: all_spirits
@@ -9,7 +9,7 @@ author: simi
 og_image_url: http://www.foodchannel.com/media/uploads/_thumbs/classic-margarita1_png_1280x800_q85.jpg
 ---
 
- There have been several claims to Margarita's origins. But no one really knows who came up with this world famous drink. I was at a bar yesterday whre I was pretty disappointed with the way the drink was presented to me! In its classic form- tequila, lime juice, triple sec, served in a glass with a salted rim is a perfect combination of sweet, salt, sour and bitter. Here is an easy recipe for the real deal. 
+ There has been several claims to Margarita's origins. But no one really knows who came up with this world famous drink. I was at a bar yesterday whre I was pretty disappointed with the way the drink was presented to me! In its classic form- tequila, lime juice, triple sec, served in a glass with a salted rim is a perfect combination of sweet, salt, sour and bitter. Here is an easy recipe for the real deal. 
 
 <img src="http://whiteonricecouple.com/recipe/images/margarita-485-1.jpg" alt="Liquor" width="75%"/>
 
