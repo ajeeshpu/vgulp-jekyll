@@ -17,8 +17,8 @@ og_image_url: http://www.foodchannel.com/media/uploads/_thumbs/classic-margarita
 
 *Tequila- 45 ml
 * Triple sec (orange liqueur)- 25 0z 
-* Lime juice- 25 oz
-* Sugar syrup- 25 oz 
+* Lime juice- 25 ml
+* Sugar syrup- 25 ml 
 * Salt
 *Lime 
 
