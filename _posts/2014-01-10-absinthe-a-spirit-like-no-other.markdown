@@ -1,8 +1,9 @@
 ---
 layout: blog-post
-title: " Each year I make a list of new things i want to try. Some are scary and difficult, some are shockingly boring! I confess, I tried absinthe the first time with a friend last year as it was on my list,  just because of all the myths surrounding it. I enjoyed the taste, so I wanted to know more about this liquor and discovered a culture behind it."
+title: "Absinthe- A spirit like no other?"
+description: "Each year I make a list of new things i want to try. Some are scary and difficult, some are shockingly boring! I confess, I tried absinthe the first time with a friend last year as it was on my list,  just because of all the myths surrounding it. I enjoyed the taste, so I wanted to know more about this liquor and discovered a culture behind it."
 date: 2014-01-10 18:48:11
-tags: alcohol, absinthe,green fairy.
+tags: alcohol, absinthe, green fairy.
 categories: all_spirits
 author: simi
 og_image_url: http://i1001.photobucket.com/albums/af137/ravetrip420/Absinthe.jpg
