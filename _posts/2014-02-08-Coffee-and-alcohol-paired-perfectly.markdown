@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Coffee and alcohol, paired perfectly."
+title: "Mix alcohol in coffee and do dumb things with more energy"
 description: "Oftentimes, when I ask my close knit of friends, what they've been upto, they tell me that they've been drinking all day. You haven't been drinking all day unless you start in the morning. Let's go easy there and mix that solution with coffee.
 How about something hot to warm you up in the mornings this weekend? If you've got vodka, whiskey or rum then I've got your back! Let the fresh spiked up coffee aroma wake you up to a day full possibilities.  "
 date: 2014-02-08 18:48:11
