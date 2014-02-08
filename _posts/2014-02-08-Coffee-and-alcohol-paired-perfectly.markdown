@@ -24,13 +24,13 @@ Try ...
 
 <img src="http://media4.onsugar.com/files/2011/11/47/3/192/1922195/85a51d5f965f302d_Pumpkin-Irish-Coffee325.xxxlarge_0.jpg" alt="Liquor" width="30%"/>
 
-*****In a coffee mug,***** add whiskey, freshly brewed sweetened hot coffee with milk and cinnamon powder. Stir and Swirl whipped cream on top. Sprinkle a pinch of cinnamon powder and it's ready.
+*In a coffee mug, add whiskey, freshly brewed sweetened hot coffee with milk and cinnamon powder. Stir and Swirl whipped cream on top. Sprinkle a pinch of cinnamon powder and it's ready.
 
 * ***Vodka 45 ml***
 * Bailey's Irish cream 25 ml
 * Black coffee sweetened (Hot)
 
-*****Bailey's Irish cream***** is a cream Liqueur with Irish whiskey. Add it to vodka and black coffee and tastes delicious!
+*Bailey's Irish cream is a cream Liqueur with Irish whiskey. Add it to vodka and black coffee and tastes delicious!
 
 * ***Captain Morgan (spiced rum) 45 ml***
 * Sweetened coffee with milk (hot)
@@ -38,7 +38,7 @@ Try ...
 * Whipped cream (swirl it on top)
  
 
-*****Add the ingredients***** into a coffee mug and stir chocolate powder. Top it with whipped cream and enjoy!
+*Add the ingredients into a coffee mug and stir chocolate powder. Top it with whipped cream and enjoy!
 
 
 
