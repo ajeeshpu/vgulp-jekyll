@@ -22,7 +22,7 @@ Try ...
 * Cinnamon powder 1/4 tsp
 * Whipped cream
 
-<img src="http://media4.onsugar.com/files/2011/11/47/3/192/1922195/85a51d5f965f302d_Pumpkin-Irish-Coffee325.xxxlarge_0.jpg" alt="Liquor" width="50%"/>
+<img src="http://media4.onsugar.com/files/2011/11/47/3/192/1922195/85a51d5f965f302d_Pumpkin-Irish-Coffee325.xxxlarge_0.jpg" alt="Liquor" width="30%"/>
 
 In a coffee mug, add whiskey, freshly brewed sweetened hot coffee with milk and cinnamon powder. Stir and Swirl whipped cream on top. Sprinkle a pinch of cinnamon powder and it's ready.
 
@@ -37,7 +37,6 @@ Bailey's Irish cream is a cream Liqueur with Irish whiskey. Add it to vodka and 
 * Whipped cream (swirl it on top)
 Add the ingredients into a coffee mug and stir chocolate powder. Top it with whipped cream and enjoy!
 
-<img src="http://us.123rf.com/400wm/400/400/elenathewise/elenathewise0605/elenathewise060500151/408397-coffee-with-alcohol-and-whipped-cream.jpg" alt="Liquor" width="50%"/>
 
 
 ***Here is to a happy sipping!***
