@@ -8,7 +8,7 @@ categories: all_spirits
 author: simi
 og_image_url: http://i1001.photobucket.com/albums/af137/ravetrip420/Absinthe.jpg
 ---
-<img src="http://upload.wikimedia.org/wikipedia/commons/9/9a/Two-absinthe-glasses.jpg" alt="Liquor" width="50%"/>
+<img src="http://upload.wikimedia.org/wikipedia/commons/9/9a/Two-absinthe-glasses.jpg" alt="Liquor" width="80%"/>
 
  Each year I make a list of new things i want to try. Some are scary and difficult, some are shockingly boring! I confess, I tried absinthe the first time with a friend last year as it was on my list,  just because of all the myths surrounding it. I enjoyed the taste, so I wanted to know more about this liquor and discovered a culture behind it.
 
