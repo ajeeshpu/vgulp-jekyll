@@ -23,7 +23,7 @@ Whiskey is known as a gentleman's drink. This means, it is a drink for people wh
 * Alcohol content- 42.8 percentage
 * Tasting notes- Light, fruity (peaches and cherries), smooth. Short with a grain influenced finish.
 
-Blender's Pride is usually served with still water, sparkling water(soda) on the rocks or neat, straight from the bottle. The biggest plus point of this whiskey is the sheer joy it gives you right from the first sip. It's the only Indian blend, I find to be the closest to a traditional Scotch. So, all you Scotch snobs who think that Scotches are the only sip worthy drinks in the world of whiskey, here is blended whiskey you shouldn't miss. For the rest of the non scotch drinking world, first master the art of drinking, drink to feel elated. Try Blender's Pride, enjoy it and let people around you enjoy your company. 
+Blender's Pride is usually served with still water, sparkling water(soda) on the rocks or neat, straight from the bottle. The biggest plus point of this whiskey is the sheer joy it gives you right from the first sip. It's the only Indian blend, I find to be the closest to a traditional Scotch. So, <span style="font-size:30px">all you Scotch snobs </span> who think that Scotches are the only sip worthy drinks in the world of whiskey, here is blended whiskey you shouldn't miss. For the rest of the non scotch drinking world, first master the art of drinking, drink to feel elated. Try Blender's Pride, enjoy it and let people around you enjoy your company. 
 
 ***Here is to happy gulping!***
 
