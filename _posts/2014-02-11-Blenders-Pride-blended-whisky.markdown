@@ -1,13 +1,12 @@
 ---
 layout: blog-post
 title: "Blender's Pride- Blended Whisky"
-description: "Whiskey is known as a gentleman's drink. This means, it is a drink for people who know when to stop drinking. When it comes to a good whiskey, I honestly feel that it is supposed to be sipped and enjoyed on an evening and let it relax you, instead of doing whiskey shots and passing out on your friend's couch! To all those who are on the same page as I am, let me proudly introduce you to the pride of it's maker's, "Blender's Pride" whiskey. It is a perfect blend of taste and class in a bottle!"
+description: "Whiskey is known as a gentleman's drink. This means, it is a drink for people who know when to stop drinking. When it comes to a good whiskey, I honestly feel that it is supposed to be sipped and enjoyed on an evening and let it relax you, instead of doing whiskey shots and passing out on your friend's couch!"
 date: 2014-02-11 18:48:11
 tags: Whiskey,blended whisky,Indian whisky,Blender's Pride
 categories: all_spirits
 author: simi
 og_image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RMxei6khEotPmpyRX_w1JkaC4slf3ep7eqy9wcn0IFvRHVBo
-
 ---
 
 
