@@ -10,6 +10,8 @@ og_image_url: http://www.nevadaugly.com/wp-content/uploads/2013/02/portada-shots
 ---
 It's Valentine's day. What is even better is that it's a Friday. This simply means, you don't have to worry about going to work the following day after your small get away with your partner and your partner in crime (alcohol!) for all that is yet to come tonight. So let's fearlessly talk about ***shots!!*** If you are taking your date out tonight and if you are contemplating shots, chuck that tequila, salt and lime and ask your bartender for one of these marvels instead.. Remember to set limits on your alcohol intake, and enjoy responsibly!
 
+Here are some of my go to's..
+
 **Surfer on acid**
 <img src="http://2.bp.blogspot.com/-q1AzYmOd6ic/TycxVa7nMwI/AAAAAAAABNY/UfdQaJ3aDao/s1600/007.JPG" alt="Liquor" width="35%"/>
 
@@ -25,7 +27,7 @@ It's Valentine's day. What is even better is that it's a Friday. This simply mea
 * Sugar syrup
 
 **Mind Eraser**
-<img src="http://www.makesomecocktails.com/image-files/absolut-mind-eraser.jpg" alt="Liquor" width="50%"/>
+<img src="http://www.makesomecocktails.com/image-files/absolut-mind-eraser.jpg" alt="Liquor" width="35%"/>
 
 * Vodka
 * Kahlua
