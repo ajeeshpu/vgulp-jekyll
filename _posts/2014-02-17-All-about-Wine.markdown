@@ -16,7 +16,7 @@ Wine is fermented grape juice. When they are made from fruits, other than grapes
 
 ***Varietal- White and Red wines.***
 Besides the color, the primary difference between the two is the parts of a grape that is used to make the wine. The juice of all grapes are clear to near clear. It can be straw or golden.The color of the end wine product does not come from the juice but the skin. So, a white wine can also be made from red grapes by using the pulp and eliminating the skin.
-<img src="<img src="http://2.bp.blogspot.com/-q1AzYmOd6ic/TycxVa7nMwI/AAAAAAAABNY/UfdQaJ3aDao/s1600/007.JPG" alt="Liquor" width="35%"/>
+<img src="http://www.restaurant-in-pattaya.com/wp-content/uploads/2011/09/Cooking-with-Wine-How-to-cook-with-wine.jpg" alt="Liquor" width="35%"/>
 
 ***What is the best wine?***
 It is the one that tastes good to YOU for the least amount of money.
