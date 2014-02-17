@@ -27,11 +27,11 @@ It is the one that tastes good to YOU for the least amount of money.
 * Climate
 * Winemaker's preference of aging/fermenting it: Steel fermenting or oak aged.
 
-<img src=http://sr2.wine-searcher.net/images/winelabelusa2.jpg"Liquor" width="50%"/>
+<img src="http://sr2.wine-searcher.net/images/winelabelusa2.jpg"Liquor" width="50%"/>
 
 ***Wine appreciation***
 Wine appreciation is a matter of common sense. If it looks, smells and tastes good to you, then that's the one. Using all your senses is all that required to get better acquainted with the world of wines.
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBTSkAS1gBL8yhURUl9NvqIfcQdENFnWQx6di_Nn0PP7Wno4Wjw"Liquor" width="30%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBTSkAS1gBL8yhURUl9NvqIfcQdENFnWQx6di_Nn0PP7Wno4Wjw"Liquor" width="30%"/>
 
 ***Observe***- look for color and clarity. Hold the glass to a white background if possible in a well lit room. White wines vary from clear to golden and gain color as they age. Red wine ranges from purple to brick red and to brown as they get older.
 ***Swirl*** opens up aroma. exposing wine to air helps it "breathe".
