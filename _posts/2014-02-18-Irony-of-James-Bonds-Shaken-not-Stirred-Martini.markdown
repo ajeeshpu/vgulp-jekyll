@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title:  "James Bond, Shaken not stirred!"
+title:  "Irony of James Bond's, Shaken not stirred, Martini!"
 description: "If you were given an option to be that one person other than yourself, who would you choose to be? Gandhi? Obama? Osama? Well, there is this one personality in my opinion, takes over every other names. I'm a woman, yet, I would love to be James Bond."
 date:   2014-02-18 18:48:11
 tags: gordon's gin,vodka,littet,vesper.
@@ -13,7 +13,7 @@ If you were given an option to be that one person other than yourself, who would
 
 ***Martini***
 
-Typically, a martini is made with gin, traditionally, dry vermouth and olives/ lemon twist for garnishing, served straight up in a martini glass. Contrary to the popular belief, any unflavored martini (without fruit juices or other mixers) should be stirred and not shaken. (Ask any mixologist, especially one who specifically calls him a mixologist and not a bartender). To add insult, many purists believe a vodka martini is no martini at all; only gin will do. Now, let me explain to you the why not of don't shake a martini.
+Typically, a martini is made with gin, traditionally, dry vermouth and olives/ lemon twist for garnishing, served straight up in a martini glass. Contrary to the popular belief, any unflavored martini (without fruit juices or other mixers) should be stirred and not shaken. (Ask any mixologist, especially one who specifically calls him a mixologist and not a bartender). To add insult, many purists believe a vodka martini is no martini at all; only gin will do. Now, let me explain to you the "why not" of don't shake a martini.
 When you shake a drink with ice, it dilutes the drink. So, you are actually watering down the real deal here. A shaken martini is usually colder than one stirred, since the ice has had a chance to swish around the drink more. Shaking a martini dissolves air into the mix; this is the "bruising" of the gin and seasoned martini drinkers complain about it as being too "sharp."
 
 Now let's get down to James Bond's Vesper Martini.
