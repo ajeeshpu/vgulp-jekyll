@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title:  "Irony of James Bond's, Shaken not stirred, Martini!"
+title:  "Irony of James Bond's, "Shaken not Stirred", Martini!"
 description: "If you were given an option to be that one person other than yourself, who would you choose to be? Gandhi? Obama? Osama? Well, there is this one personality in my opinion, takes over every other names. I'm a woman, yet, I would love to be James Bond."
 date:   2014-02-18 18:48:11
 tags: gordon's gin,vodka,littet,vesper.
