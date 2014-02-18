@@ -4,7 +4,7 @@ title:  "How to Cocktail- Black Russian, White Russian, AK- 47"
 description: "The Black and the White Russians are easy to drink cocktails, yet they pack quite a punch."
 date:   2014-02-03 18:48:11
 tags: Vodka, Kahlua, The Russians, AK 47
-categories: all_spirits
+categories: cocktails
 author: simi
 og_image_url: http://www.galleryhijinks.com/media/artists/gallery/peter-gronquist/img_0709.jpg
 ---
