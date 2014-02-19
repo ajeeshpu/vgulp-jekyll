@@ -4,7 +4,7 @@ title:  "Gulpmag trivia, answer and win!"
 description: "I assume that I've been doing a decent job on sharing everything booze related information and alcohol recipes with you thus far. I got this sudden idea composing a questionnaire to see how much  we can learn from each other. Ask me questions too and leave your answers to my questions on my blog article below. The best response to at least 8 questions, stands a chance to win an IMFL bottle of booze of my choice."
 date:   2014-02-19 18:48:11
 tags: Alcohol,whiskey,glassware,cognac.
-categories: All-spirits-whiskey-mojito-questionnaire
+categories: all_spirits
 author: simi
 og_image_url: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=NJeJW1VT5BgNhM&tbnid=Rr2_wSr1VzWFvM:&ved=0CAUQjRw&url=http%3A%2F%2Fbatman.wikia.com%2Fwiki%2FThe_Riddler_(Jim_Carrey)&ei=SHUEU6GoNMjtrAefh4AQ&psig=AFQjCNElI6PTgRDkkbC8qPntl6oAfS7PGg&ust=1392887378316990
 ---
